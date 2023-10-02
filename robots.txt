@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://welcome.ncut-ja.club/sitemap.xml
